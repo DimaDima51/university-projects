@@ -1,0 +1,10 @@
+shell
+radix
+hello
+world
+clock
+climb
+clean
+chill
+coast
+build
